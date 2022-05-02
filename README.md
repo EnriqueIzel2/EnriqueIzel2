@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### Hi there! I'm Enrique Izel 😊
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleaoizel@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_enriquerique_/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Enrique_Izel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-izel-developer)
 
@@ -48,4 +47,4 @@ Here are some ideas to get you started:
   <img align="center" alt="Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-<!-- ![Snake animation](https://github.com/EnriqueIzel2/EnriqueIzel2/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/EnriqueIzel2/EnriqueIzel2/blob/output/github-contribution-grid-snake.svg)
