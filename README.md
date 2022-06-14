@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueIzel2&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueIzel2&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueIzel2&layout=compact&langs_count=7&theme=dark&exclude_repo=Worderful_Game,loopy_game,SmartPhone1,compiladores,top-analise-redes-neurais)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 
