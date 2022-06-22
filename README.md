@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueIzel2&layout=compact&langs_count=7&theme=dark&exclude_repo=Worderful_Game,loopy_game,SmartPhone1,compiladores,top-analise-redes-neurais)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🌱 I’m currently learning Kotlin
+<img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+
 ### Languages and Tools
 
 <div style="display: inline-block">
