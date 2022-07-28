@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueIzel2&layout=compact&langs_count=7&theme=dark&exclude_repo=Worderful_Game,loopy_game,SmartPhone1,compiladores,top-analise-redes-neurais,Battle_Plane)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning Android with Flutter and Dart
+- 🌱 I’m currently learning Flutter and Dart
 <div style="display: inline-block">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
